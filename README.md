@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on some projects at the university!
 - 🌱 I’m currently learning English and about the world of smart devices!
 - ⚡ A fact about me: I love NASA and I hope they succeed in all future space missions, especially ARTEMIS I which is the closest.
+
 ##
 <div align="center">
   <a href="https://github.com/MarcoAndradee">
@@ -16,3 +17,5 @@
  <a href="https://www.facebook.com/profile.php?id=100002388707806"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/marco-ant%C3%B4nio-andrade-4960a4232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div)
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
