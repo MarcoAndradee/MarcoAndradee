@@ -1,5 +1,9 @@
 ### Hello World 🌍! Welcome to my github profile 🎊🎈!
-  ![coin](https://user-images.githubusercontent.com/110206563/187045738-8feab63e-e346-410c-9fbf-074846025fb2.gif)
+<div align="center">
+<a href="https://github.com/MarcoAndradee">
+  <img height="400em" src="https://user-images.githubusercontent.com/110206563/187045738-8feab63e-e346-410c-9fbf-074846025fb2.gif"/>
+</div>
+
 ##
 - 🔭 I’m currently working on some projects at the university!
 - 🌱 I’m currently learning English and about the world of smart devices!
