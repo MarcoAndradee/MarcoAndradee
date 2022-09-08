@@ -7,7 +7,7 @@
 ##
 - 🔭 I’m currently working on some projects at the university!
 - 🌱 I’m currently learning English and about the world of smart devices!
-- ⚡ A fact about me: I love NASA and I hope they succeed in all future space missions, especially ARTEMIS I which is the closest.
+- ⚡ A fact about me: I love NASA and I hope they succeed in all future space missions!
 
 ##
 <div align="center">
